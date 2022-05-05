@@ -1,19 +1,20 @@
-# todolist
+# ToDo List
 
-## Project setup
+## 💻 Projeto
+
+O projeto é um app de tarefas, aonde você pode cadastrar novas tarefas, editar e excluí-las. Utiliza o próprio localStorage do navegador 
+
+## 🚀 Tecnologias
+- Vue.js
+- Bootstrap.vue
+- Toast (mixin)
+
+## 💻 Como executar
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
