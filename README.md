@@ -1,15 +1,18 @@
 # ToDo List
 
-## 💻 Projeto
+![TODO_list](https://github.com/VitorFerronato/ToDoList/assets/94748997/998e2a8a-8768-4d3d-b282-82791cbdb5d2)
 
-O projeto é um app de tarefas, aonde você pode cadastrar novas tarefas, editar e excluí-las. Utiliza o próprio localStorage do navegador. 
 
-## 🚀 Tecnologias
+## 💻 The project
+
+The project is a task app, where you can register new tasks, edit and delete them. Uses the browser's own localStorage. 
+
+## 🚀 Technologies
 - Vue.js
 - Bootstrap.vue
 - Toast (mixin)
 
-## 💻 Como executar
+## 💻 Setup
 ```
 npm install
 ```
